@@ -4,4 +4,4 @@
 - Understand the principles of HTML and CSS
 - Present your page and code
 
-URL : [link](http "Tim berners-lee page")
+URL : [link](https://lambertnicolas.github.io/tim-berners-lee/ "Tim berners-lee page")

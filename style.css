@@ -1,0 +1,134 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #ebebeb;
+}
+
+main{
+    width:600px;
+    margin: 0 auto;    
+}
+
+section {
+    width:100%;
+    margin: 20px 0 20px 0;
+    padding: 30px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 1px 1px 2px #c2c2c2;
+    display: block;
+    border-radius: 5px;
+}
+
+.imgtim {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    border: 3px solid #cccccc;
+    margin: 10px auto;
+    width: 150px;
+}
+
+h1 {
+    color: #dd5555;
+    font-size: 36px;
+    font-weight: 999;
+    
+}
+
+h2 {
+    color: #6f6c71;
+    margin: 20px 0 20px 0;
+    font-size: 26px;
+    font-weight:600;
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
+    color: #6e6d74;
+    line-height: 36px;
+}
+
+strong {
+    font-weight: bold;
+}
+
+.description {
+    margin-bottom: 22px;
+}
+.linksee {
+    background-color: #dd5555;
+    color:white;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.linksee:hover {
+    background-color: #8f3939;
+    color:white;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    text-decoration: none;   
+}
+
+ul {
+    margin:20px auto;
+    width:80%;
+
+}
+li {
+    color:#6f6c71;
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+}
+ul li a {
+    color:#cccccc;
+    text-decoration:none;
+}
+ul li a:hover {
+    color:#424242;
+} 
+
+.fa-brands {
+    font-size: 40px;
+}
+
+.his {
+    background-color: #d4d4d4;
+}
+
+i {
+    margin-bottom: 20px;
+}
+
+.favmovies {
+    margin-bottom: 70px;
+}
+article {
+    display:flex;
+    margin: 10px 10px 50px 10px;
+}
+.affiche {
+    width: 120px;
+    height: 177px;
+}
+
+article div {
+    padding-left: 20px;
+}
+
+h3 {
+    color: #6f6c71;
+    margin: 20px 0 20px 0;
+    font-size: 24px;
+    font-stretch: 500%;
+    font-weight:600;   
+}
